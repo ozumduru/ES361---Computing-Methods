@@ -5,3 +5,4 @@ for i=1:numel(x)-1
     
     I = I + (h/2)*(f(i)+f(i+1));
 end
+end
